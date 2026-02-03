@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gold Buddy</string>
+    <!-- Use a basic parent and rely on Compose for the rest -->
+    <style name="Theme.GoldBuddy" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>

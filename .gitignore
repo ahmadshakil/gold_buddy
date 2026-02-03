@@ -1,0 +1,62 @@
+# Built artifacts
+bin/
+gen/
+out/
+build/
+.gradle/
+.navigation/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+.factorypath
+
+# Local configuration
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Captures
+captures/
+
+# External native build artifacts
+.externalNativeBuild/
+.cxx/
+
+# Google Services
+google-services.json
+
+# Secrets
+secrets.properties
+
+# Android Studio history
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/modules/
+
+# Gradle
+.gradle/
+build/
+
+# Signing
+*.jks
+*.keystore
+*.p12
+
+# Root build artifacts
+/build/
+/app/build/
